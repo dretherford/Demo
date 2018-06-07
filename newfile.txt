@@ -1,0 +1,2 @@
+Create new file on branch myBranch
+Add a 2nd line to newfile.txt
